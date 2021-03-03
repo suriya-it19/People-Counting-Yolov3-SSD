@@ -15,4 +15,4 @@
   
   ```python SSD.py --input videos/example.mp4 --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt --model mobilenet_ssd/MobileNetSSD_deploy.caffemodel```
   
-  Note: Download the weights file here and store the weights inside the weights folder
+  Note: Create a folder name videos and store any example video for demo
